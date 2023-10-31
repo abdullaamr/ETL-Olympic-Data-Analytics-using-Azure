@@ -19,13 +19,13 @@ Process the data and load it into Data lake to be ready for further analysis usi
 - Ingest the olympic dataset from it's source using data factory service into our data lake. 
 
 ### 2- Data Exploration(EDA) and Visualization:
-- Create Azure Data Bricks Work space
-- Create a new compute
-- Create App Registrations to get the credentials needed
-- Connect the Azure Data Bricks with Azure Data Lake by mounting Data Lake files into Data Bricks
+- Create Azure Data Bricks Work space.
+- Create a new compute.
+- Create App Registrations to get the credentials needed.
+- Connect the Azure Data Bricks with Azure Data Lake by mounting Data Lake files into Data Bricks.
 
 ### 3- Data Exploration(EDA) and Visualization:
-- Load the dataset
+- Load the dataset.
 - Explore the dataset and ask questions to give a better understanding of the data provided to you.
 - Use data visualization to answer these questions.
 
@@ -36,13 +36,12 @@ Process the data and load it into Data lake to be ready for further analysis usi
 - After observing outliers, missing data, and duplicates, handle any noisy data.
 
 ### 5- Data Transformation and Feature Engineering:
-- Add a new column named .
+- Check the data type of features.
+- Add a new column.
 - Encode any categorical features.
 - Identify feature(s) which need normalization and show the reasoning. Then choose a technique to normalize the feature(s).
 
 ### 6- Data Loading:
-- Add a new column named .
-- Encode any categorical features.
-- Identify feature(s) which need normalization and show the reasoning. Then choose a technique to normalize the feature(s).
+- load the data after cleaning and transformation (preprocessing) again into Data Lake which is ready for Further analytics.
 
-
+## Data Analytics
